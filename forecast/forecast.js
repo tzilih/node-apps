@@ -1,0 +1,1 @@
+//API key for forecast.io	5eadb50d1f78c301cf8831741c252d78
